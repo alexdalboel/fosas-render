@@ -1,6 +1,5 @@
 from flask import Flask
-import dash
-from dash import dcc, html
+from dash import dash, dcc, html
 import dash_leaflet as dl
 from dash.dependencies import Input, Output
 import pandas as pd
