@@ -77,7 +77,7 @@ app.layout = html.Div([
         href='https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap',
         rel='stylesheet'
     ),
-    html.H1('Mass graves from the Spanish Civil War', style={'font-family': 'Roboto, sans-serif', 'text-align': 'center'}),
+    html.H1('Mass graves from the Spanish Civil War viz', style={'font-family': 'Roboto, sans-serif', 'text-align': 'center'}),
     
     html.Div(
         style={'display': 'flex', 'justify-content': 'space-between'},
